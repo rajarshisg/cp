@@ -118,13 +118,13 @@ Snippets in Sublime Text allow you to quickly insert commonly used code patterns
 1. Open a new folder in Sublime.
 2. Create three files under this folder `Solution.java`, `input.txt` and `output.txt`.
 3. Inside `Solution.java` type `cpjava + Tab`, this will load the boilerplate code we saved earlier in `cpjava.sublime-snippet`.
-4. To set-up the three files in a grid layout do `View > Layout > Columns 3` and `View > Groups > Max Columns: 2`.
+4. To set-up the three files in a grid layout do **View > Layout > Columns 3** and **View > Groups > Max Columns: 2**.
 5. Adjust the grid sizes and place the files as per your convenience.
-6. Save this folder as a sublime project `Project > Save Project As...`
-7. Open this project anytime using `Project > Open Project...` and navigating to the folder we created and selecting the `*.sublime-workspace` file
+6. Save this folder as a sublime project **Project > Save Project As...**
+7. Open this project anytime using **Project > Open Project...** and navigating to the folder we created and selecting the `*.sublime-workspace` file
 
 ## Step 4: Executing code
 
 1. Enter the input in `input.txt` and write your code in `Solution.java`.
-2. Setup the default build system by navigating to `Tools > Build System` and select `Java` as the default build system (needs to be done only for first time).
+2. Setup the default build system by navigating to **Tools > Build System** and select `Java` as the default build system (needs to be done only for first time).
 3. Finally press `CMD + B` and you should see the output in the `output.txt` file.
