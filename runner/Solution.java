@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Solution {
-
+    
     // This method handles file input/output (for localhost)
     private static void fileMain() throws IOException {
         // BufferedReader to read input from file
